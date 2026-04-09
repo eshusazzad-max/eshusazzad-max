@@ -56,11 +56,21 @@
 ---
 
 
-
 ## 🌐 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/sinthia-akter-esha  
-- 📧 Email: eshusazzad@gmail.com  
 
+<p>
+  <a href="https://www.linkedin.com/in/sinthia-akter-esha">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://x.com/SinthiaEshaa">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:eshusazzad@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 ---
 
 ## ✨ Fun Fact
