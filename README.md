@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, This is Sinthia Akter Esha</h1>
 
 
-![sinthia akter esha banner (1)](https://github.com/user-attachments/assets/de09f23e-84ba-4df2-8680-4e5630f9b779)
+![SINTHIA AKTER ESHA GITHUB BANNER](https://github.com/user-attachments/assets/a63e7f8f-93a1-4fab-8208-8ee7502c375d)
+
 
 <p align="center">
 🚀 Aspiring Web Developer | Frontend Developer in Progress | React Learner
@@ -28,26 +29,7 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=eshusazzad-max&show_icons=true&theme=radical" />
-</p>
 
----
-
-## 🔥 Top Languages
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshusazzad-max&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🏆 Achievements
-<p>
-<img src="https://github-profile-trophy.vercel.app/?username=eshusazzad-max&theme=radical" />
-</p>
-
----
 
 ## 🌐 Connect with Me
 - 💼 LinkedIn: https://www.linkedin.com/in/sinthia-akter-esha  
