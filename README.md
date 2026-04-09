@@ -14,10 +14,36 @@
 
 ---
 
+## 🚀 Featured Projects
+
+🔹 **Portfolio Website**  
+
+<img width="1654" height="777" alt="image" src="https://github.com/user-attachments/assets/b8f9ebad-43d5-41ce-a27e-da7d43f7ad81" />
+
+
+- Responsive personal portfolio  
+- Built with HTML & CSS  
+
+🔹 **Job Application Tracker**
+<img width="1148" height="674" alt="image" src="https://github.com/user-attachments/assets/91f3214b-f055-49ba-bd03-85b49eb6620a" />
+
+- Clean UI design  
+- Mobile responsive  
+
+🔹 **GitHub Issue Tracker**  
+
+<img width="1129" height="671" alt="image" src="https://github.com/user-attachments/assets/3b574803-37db-4f7c-a0f3-0d6579df66f9" />
+
+
+- Practice project  
+- Focus on UI & structure  
+
+---
+
 ## 👩‍💻 About Me
 - 💡 Passionate about building websites  
 - 🌱 Currently learning **React & modern web technologies**  
-- 🎯 Goal: Become a Professional Web Developer  
+- 🎯 Goal: Become a Professional Full Stack Web Developer  
 - ⚡ Love clean UI & responsive design  
 
 ---
