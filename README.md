@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, This is Sinthia Akter Esha</h1>
-
 
 ![SINTHIA AKTER ESHA GITHUB BANNER](https://github.com/user-attachments/assets/a63e7f8f-93a1-4fab-8208-8ee7502c375d)
 
@@ -16,7 +14,7 @@
 
 ## 🚀 Featured Projects
 
-🔹 **Portfolio Website**  
+<h3 align="center">Portfolio Website</h3>
 
 <img width="1654" height="777" alt="image" src="https://github.com/user-attachments/assets/b8f9ebad-43d5-41ce-a27e-da7d43f7ad81" />
 
@@ -24,13 +22,14 @@
 - Responsive personal portfolio  
 - Built with HTML & CSS  
 
-🔹 **Job Application Tracker**
+<h3 align="center">Job Application Tracker </h3>
+
 <img width="1148" height="674" alt="image" src="https://github.com/user-attachments/assets/91f3214b-f055-49ba-bd03-85b49eb6620a" />
 
 - Clean UI design  
 - Mobile responsive  
 
-🔹 **GitHub Issue Tracker**  
+<h3 align="center"> Github Issues Tracker </h3>
 
 <img width="1129" height="671" alt="image" src="https://github.com/user-attachments/assets/3b574803-37db-4f7c-a0f3-0d6579df66f9" />
 
