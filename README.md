@@ -54,6 +54,28 @@
 
 ---
 
+## 🔥 Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=eshusazzad-max&theme=radical&hide_border=true" />
+</p>
+
+---
+## 💻 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eshusazzad-max&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eshusazzad-max&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eshusazzad-max&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ## 🌐 Connect with Me
 
